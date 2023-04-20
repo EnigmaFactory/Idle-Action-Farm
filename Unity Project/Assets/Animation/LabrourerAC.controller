@@ -72,7 +72,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -8945691123924629249, guid: eed13c706ba4f9d4a8160ecf05e9dc40, type: 3}
+  m_Motion: {fileID: 7400000, guid: 27e6cffd7fd86844f9aa58c3e39d23c4, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -141,7 +141,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Armature|Walking
-  m_Speed: 1
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -661235889805985292}
@@ -155,7 +155,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -4274770991410265338, guid: eed13c706ba4f9d4a8160ecf05e9dc40, type: 3}
+  m_Motion: {fileID: 7400000, guid: febc927f1ce15b64db5270964dd0dbdf, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -223,7 +223,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: player_ac
+  m_Name: LabrourerAC
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: isWalking
@@ -449,7 +449,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -3828583913261678786, guid: eed13c706ba4f9d4a8160ecf05e9dc40, type: 3}
+  m_Motion: {fileID: 7400000, guid: febc927f1ce15b64db5270964dd0dbdf, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
